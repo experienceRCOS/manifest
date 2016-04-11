@@ -5,6 +5,7 @@
   <default revision="master"
            remote="aosp"
            sync-j="4" />
+
   <project name="accessories/manifest" />
   <project name="brillo/manifest" />
   <project name="device/asus/deb" />
