@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="aosp"
            fetch=".." />
-  <default revision="master"
+  <default revision="android_6.0.1_r24"
            remote="aosp"
            sync-j="4" />
 
