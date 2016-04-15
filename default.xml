@@ -78,6 +78,8 @@
   <project name="device/sample" />
   <project name="device/samsung/crespo" />
   <project name="device/samsung/crespo4g" />
+  <project path="device/samsung/kylepro" name="experienceRCOS/android_device_samsung_kylepro" revision="aosp-6.0" />
+  <project path="device/samsung/kyleprods" name="experienceRCOS/android_device_samsung_kyleprods" revision="aosp-6.0" />
   <project name="device/samsung/maguro" />
   <project name="device/samsung/manta" />
   <project name="device/samsung/toro" />
@@ -99,6 +101,7 @@
   <project name="kernel/msm" />
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
+  <project path="kernel/samsung/kyleproxx" name="experienceRCOS/android_kernel_samsung_kyleproxx" revision="aosp-6.0" />
   <project name="kernel/tegra" />
   <project name="kernel/tests" />
   <project name="kernel/x86" />
@@ -651,6 +654,7 @@
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
   <project name="platform/hardware/samsung_slsi/exynos5" />
   <project name="platform/hardware/ti/omap3" />
   <project name="platform/hardware/ti/omap4-aah" />
@@ -841,7 +845,7 @@
   <project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
   <project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" />
   <project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
-  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" />
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" />
@@ -1022,4 +1026,5 @@
   <project name="trusty/lk/trusty" />
   <project name="trusty/manifest" />
   <project name="trusty/vendor/google/aosp" />
+  <project path="vendor/samsung/kyleproxx" name="SandPox/android_vendor_samsung_kyleproxx" revision="master" />
 </manifest>
