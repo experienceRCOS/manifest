@@ -1026,5 +1026,5 @@
   <project name="trusty/lk/trusty" />
   <project name="trusty/manifest" />
   <project name="trusty/vendor/google/aosp" />
-  <project path="vendor/samsung/kyleproxx" name="SandPox/android_vendor_samsung_kyleproxx" revision="master" />
+  <project path="vendor/samsung/kyleproxx" name="experienceRCOS/android_vendor_samsung_kyleproxx" revision="aosp-6.0" />
 </manifest>
